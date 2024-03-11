@@ -1,4 +1,4 @@
-This repsitory provides sample codes regarding functional data analysis based on the following references.
+This repository provides sample R codes for functional data analysis based on the following references.
 
 Books:
 
@@ -15,5 +15,6 @@ Ramsay, J. O., Ramsay, J., Hooker, G., Graves, S. (2009). Functional D
 [https://books.google.no/books?id=fNKHa8eV7WYC]
 
 Jermyn, I. H., Kurtek, S., Laga, H., Srivastava, A. (2017). Elastic Shape Analysis of Three-Dimensional Objects. Switzerland: Morgan & Claypool Publishers.
+
 [https://books.google.no/books?id=oq42DwAAQBAJ]
 
