@@ -1,4 +1,6 @@
-This repository provides sample R codes for functional data analysis based on the following references.
+The "Functional_Data_Analysis.R" file within this repository contains sample code snippets for conducting functional data analysis.
+
+The codes are based on the references listed below.
 
 Books:
 
